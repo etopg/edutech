@@ -34,7 +34,7 @@ const Home_innerpagefour = () => {
                 <div className='text-center border  translate-y-3/4 rounded-xl py-[3vh] shadow-xl'>
                 <img src={p2} alt="image" />
                 </div>
-                
+                <h2>hello</h2>
 
                     
                 
